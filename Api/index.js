@@ -1,5 +1,4 @@
 const axios = require('axios');
-require('dotenv').config();
 
 const endPoint = 'https://api.github.com/orgs/takenet/repos';
 
